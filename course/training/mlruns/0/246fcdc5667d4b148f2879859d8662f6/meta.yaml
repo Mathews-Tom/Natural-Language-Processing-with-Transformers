@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/druk/WorkSpace/Natural-Language-Processing-with-Transformers/course/training/mlruns/0/246fcdc5667d4b148f2879859d8662f6/artifacts
+end_time: 1676220318832
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 246fcdc5667d4b148f2879859d8662f6
+run_name: out
+run_uuid: 246fcdc5667d4b148f2879859d8662f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676219271158
+status: 3
+tags: []
+user_id: druk

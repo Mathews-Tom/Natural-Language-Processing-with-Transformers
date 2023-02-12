@@ -1,0 +1,18 @@
+elasticsearch
+farm-haystack
+kaggle
+nltk
+numpy
+pandas
+requests
+rouge
+seaborn
+transformers
+sentence-transformers
+spacy
+spacy-transformers
+flair
+tensorflow-macos; sys.platform == 'darwin'
+tensorflow-metal; sys.platform == 'darwin'
+tensorflow; sys.platform == 'win32'
+ipykernel
